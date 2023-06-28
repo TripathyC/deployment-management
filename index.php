@@ -1,4 +1,4 @@
 <?php 
   echo "Hello World!";
-  echo "How are you today?";
+  echo "How are you?";
 ?>
